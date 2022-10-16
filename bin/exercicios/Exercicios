@@ -1,0 +1,38 @@
+1 - Considere uma pilha P vazia e uma fila F não vazia. Faça um método que preencha a pilha da
+seguinte forma: adicione um elemento da fila, adicione o elemento multiplicado por 2 e assim por
+diante. Ao final a pilha deve ter o dobro do tamanho da fila.
+
+2 - Considere uma lista contendo números inteiros. Escreva uma função para ordenar essa fila em
+ordem crescente de seus valores.
+
+3 - Considere uma lista contendo números inteiros. Escreva uma função ao que calcule o maior, o
+menor e a media aritmética dos seus elementos.
+
+4 - Desenvolva uma função para testar se uma fila F1 tem mais elementos do que uma fila F2 sem
+utilizar o método size().
+
+5 - Faça uma função que receba três filas, duas já preenchidas em ordem crescente e preencha a
+última com os valores das duas primeiras em ordem crescente sem ter elementos repetidos
+
+6 - Implemente uma função que receba uma lista como parâmetro e cria uma fila e uma pilha e em
+seguida imprima os elementos das três estruturas
+
+7 - Faça uma função que receba uma fila como argumento e retorne o valor armazenado em seu
+início. A função deve remover também esse elemento.
+
+8 - Faça uma função para retornar o número de elementos da fila que possuem valor ímpar.
+
+9 - Faça uma função para retornar o número de elementos da fila que possuem valor ímpar.
+
+10 – Faça uma função que receba 2 parâmetros: o primeiro uma pilha de números inteiros e o
+segundo um valor inteiro. A função deve retornar quantos elementos deve ser desempilhado até
+encontrar o número passado como parâmetro, caso não encontre o número, retorne -1.
+
+11 – Faça uma função que receba uma fila como parâmetro e retorne qual o maior número par
+presente na fila. Informe na tela todos os elementos pares
+
+12 – Faça um método para embaralhar 2 pilhas de cartas, para isso, receba 2 listas (L1 e L2)
+como parâmetro, embaralhe as duas listas individualmente com o método shuffle() e crie duas
+pilhas distintas P1 e P2 com o conteúdo da sua respectiva lista. Ao término, faça uma lista final L3
+que vai receber a carta do topo de P1 e depois o topo de P2. Faça isso até finalizar as duas pilhas
+de cartas. Apresente em tela L1, L2, P1, P2 e L3.
